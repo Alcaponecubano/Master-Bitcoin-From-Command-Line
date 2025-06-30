@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ========================================
-# Script completo para nodo Bitcoin en regtest
+# Script para nodo Bitcoin en regtest
 # Autor: Daniel Fabian Quesada @alcaponecubano
 # ========================================
 
